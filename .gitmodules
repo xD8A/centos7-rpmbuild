@@ -1,0 +1,3 @@
+[submodule "python3"]
+	path = python3
+	url = https://github.com/xD8A/centos7-python38
